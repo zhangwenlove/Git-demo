@@ -20,3 +20,4 @@ hello zhangwen  hot-fix test
 我是傻逼
 
 你也是傻逼
+你们都是傻逼
